@@ -3,17 +3,19 @@
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metadata.siteName }}
+			<br>
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
+			Microblog su Tecnologia, Sviluppo e Nerdosità varie
 		</p>
 
+		<!--
 		<p class="author__links">
-			<a href="//twitter.com/suits_at">Follow on Twitter</a>
+			<a href="//twitter.com/smilzao">Seguimi su Twitter</a>
 			<a href="https://github.com/suits-at/netlifycms-gridsome">GitHub</a>
 		</p>
-
+		-->
 	</div>
 </template>
 

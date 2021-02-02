@@ -2,9 +2,12 @@
 title: Postazione di Sviluppo
 date: 2021-02-02
 published: true
-tags: ['Coding','General']
+tags:
+  - Coding
+  - General
 canonical_url: false
-description: "Alcuni settaggi che utilizzo per customizzare le postazioni di lavoro."
+cover_image: ../../static/images/uploads/14.jpeg
+description: Alcuni settaggi che utilizzo per customizzare le postazioni di lavoro.
 ---
 
 Di solito quando prendo un nuovo pc la prima cosa che faccio è installare l'editor di sviluppo che, per mia scelta, deve essere anche l'editor di default dei file di testo.

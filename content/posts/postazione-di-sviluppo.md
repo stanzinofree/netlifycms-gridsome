@@ -36,6 +36,7 @@ Apriamo con: ctrl+, il pannello dei settaggi e nelle preferenze utente io metto 
 Non sono molti e soprattutto rendono la vita molto più facile, almeno per me e ora ve li vado a spiegare.
 
 ## Workbench
+
 ````"workbench.settings.editor": "json"````
 
 Questa impostazione serve per aprire il pannello delle impostazioni utente in formato json invece che in formato grafico (naturalmente come ho detto è questione di preferenze)

@@ -54,18 +54,6 @@ module.exports = {
             // found under the header "Add new language definition or extend an
             // existing language" below.
             languageExtensions: [
-              {
-                language: "superscript",
-                extend: "javascript",
-                definition: {
-                  superscript_types: /(SuperType)/,
-                },
-                insertBefore: {
-                  function: {
-                    superscript_keywords: /(superif|superelse)/,
-                  },
-                },
-              },
             ],
             // Customize the prompt used in shell output
             // Values below are default
@@ -74,7 +62,6 @@ module.exports = {
               host: "ahoma-dev",
               global: false,
             },
-
         }],
       ]
     }
